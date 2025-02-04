@@ -14,3 +14,11 @@
 
 <img src="sh.png">
 
+# Splunk Restart 
+
+### some basic info you need to know 
+
+<img src="rest1.png">
+
+
+
