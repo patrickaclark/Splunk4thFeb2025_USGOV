@@ -67,3 +67,7 @@ Configured but inactive forwards:
 
 <img src="dash11.png">
 
+### more about user inputs 
+
+<img src="user1.png">
+
