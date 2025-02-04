@@ -1,0 +1,14 @@
+<dashboard version="1.1" theme="light">
+<label> Sample Dashboard </label>
+<description> This is a sample dashboard </description>
+<row>
+    <panel>
+        <title> Sample Panel 1 </title>
+        <chart>
+            <query> index=_internal | timechart count by sourcetype </query>
+            <option name="charting.chart">column</option>
+        </chart>
+        
+    </panel>
+</row>
+</dashboard>

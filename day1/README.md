@@ -58,3 +58,12 @@ Configured but inactive forwards:
 
  /opt/splunkforwarder/bin/splunk list monitor 
 ```
+
+### creating Index and uploading data manually 
+
+<img src="index1.png">
+
+## Splunk dashboards 
+
+<img src="dash11.png">
+
