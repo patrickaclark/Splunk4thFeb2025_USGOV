@@ -1,0 +1,11 @@
+<nav search_view="search" color="#23DCCA">
+  
+  <view name="dashboards" default='true' />
+  <view name="search" />
+  
+  <collection label="Splunk_defaults">
+  	<view name="reports" />
+  	<view name="alerts" />
+  </collection>
+  
+</nav>
