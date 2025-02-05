@@ -15,3 +15,9 @@ Added monitor of '/var/log/httpd'.
 [root@splunk-forwarder1 ~]# 
 
 ```
+
+### using for loop in SPL 
+
+```spl
+index="webapp_data" sourcetype=access_combined  | search clientip IN($ashu_select_ip$) | stats count by host , method , clientip,uri, status | sort - count
+```
